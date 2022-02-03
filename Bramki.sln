@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bramki", "Bramki\Bramki.csproj", "{3C1CE146-C2E8-41B2-98EE-A10070D9FA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BramkiUnitTest", "BramkiUnitTest\BramkiUnitTest.csproj", "{896E1677-D387-4E4C-8CA8-01C1891E91D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1CE146-C2E8-41B2-98EE-A10070D9FA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1CE146-C2E8-41B2-98EE-A10070D9FA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1CE146-C2E8-41B2-98EE-A10070D9FA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1CE146-C2E8-41B2-98EE-A10070D9FA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896E1677-D387-4E4C-8CA8-01C1891E91D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896E1677-D387-4E4C-8CA8-01C1891E91D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896E1677-D387-4E4C-8CA8-01C1891E91D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896E1677-D387-4E4C-8CA8-01C1891E91D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8AF087-3334-4B08-91B0-A3977CBB8C19}
+	EndGlobalSection
+EndGlobal
